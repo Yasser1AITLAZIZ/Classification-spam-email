@@ -1,6 +1,4 @@
 # Classification-spam-email
-
-
 The concept of "spam" is very varied: advertisements for products/websites,
 money-making schemes, chain letters, pornography...
 The task of classifying this data set is to determine
